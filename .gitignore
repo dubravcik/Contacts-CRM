@@ -1,0 +1,5 @@
+.vagrant
+puphpet/config-custom.yaml
+
+vendor
+puphpet
